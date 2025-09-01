@@ -54,7 +54,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ```
 ## OUTPUT:
 
-![alt text](image.png)
+![alt text](image-3.png)
 
+![alt text](image-2.png)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
